@@ -17,4 +17,7 @@ cities:
  - gujrat
 
 // ... to end the doc
+---
+citiees: [new delhi , mumbai]
+
 ...
