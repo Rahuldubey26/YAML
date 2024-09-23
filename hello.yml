@@ -10,3 +10,7 @@
 
 // it is case senitive
 
+cities:
+ - new delhi
+ - mumbai
+ - gujrat
