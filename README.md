@@ -1,2 +1,2 @@
 # YAML
-Learing YAML
+# Learning YAML
