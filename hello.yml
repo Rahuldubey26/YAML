@@ -2,15 +2,18 @@
 
 "apple": "I m a red Fruit"
 1:"My roll no"
-
+---
+// it knows that it is differnt docs
 # list 
 - apple
 - mango 
 - banana
-
+---
 // it is case senitive
 
 cities:
  - new delhi
  - mumbai
  - gujrat
+
+// ... to end the doc
