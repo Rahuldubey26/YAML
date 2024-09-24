@@ -1,0 +1,67 @@
+student: !!seq
+ - marks
+ - name 
+ - rool_no
+
+ cities: [ new Delhi,mumbai]
+
+# some of the key of the seq will be empty
+# sparse seq
+spare seq: 
+ - hey
+ - how
+ - 
+ - Null
+ -sup
+
+ # nested seq
+ -
+  -mango
+  -apple
+  -grapes
+ -
+  - marks
+  - roll_no
+  - date
+
+# Key : value apir are called  maps
+!!map 
+
+# nested map : map within map
+
+name : Rahul Dubey
+role:
+  age: 20
+  job: intern
+
+  #same as above
+roles: {age: 20,job: student}
+
+pair exammple: !!pairs
+  - job: student
+  - job: intern devops
+
+# same as this 
+pair example: !!pairs
+  [job: student , job: intern devops]
+  # this will be an array of hash table
+
+# !!set will allow u to have unique value
+
+name: !!set
+ ? Rahul
+ ? kunal
+ ? Om
+
+# dictonary: !!omap
+
+people: !!omap
+  - Rahul : 
+      name : Rahul Dubey
+      age : 20
+      height =: 173
+  - Kunal
+      name: Kunal sharma
+      age: 20
+      height: 129
+
