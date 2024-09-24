@@ -65,3 +65,11 @@ people: !!omap
       age: 20
       height: 129
 
+# resuing some property
+linkings: 
+  fav fruits: mango
+  dislike: apple
+
+person:
+  name: Rahul Dubey
+  
