@@ -30,6 +30,7 @@ binaryNum: !!int 0b11001
 octal: !!int 06574
 hexa: !!int 0x10
 commaValues: !!int +500_000 # 500,000
+eexponential numbers: 6.023E3
 
 # floating no 
 marks: !!float 65.9
@@ -48,3 +49,4 @@ surname: !!null Null # or null NULL ~
 date : 2002-10-13
 date: !!timestamp 2002-12-13
 
+india time: 2001-1215T02:59:443.10 +5:30;
