@@ -19,5 +19,6 @@ cities:
 // ... to end the doc
 ---
 citiees: [new delhi , mumbai]
-
+---
+{mango: "yello",age :"23"}
 ...
