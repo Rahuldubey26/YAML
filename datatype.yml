@@ -4,8 +4,47 @@ fruit: "Apple"
 age : '100'
 
 bio:|
- hey me name is rahul dubey and 
+hey me name is rahul dubey and 
 i m a devops intern.
 
 # write a single line in multiple line
+mesage: > 
+this will
+all be in
+one single line 
+
+# same as
+mesage : this will all be in one single line
+
+number: 5473
+marks: 888.9
+booleanValue: No # n,N , false ,False ,FALSE
+
+# same for true -> yes,Y,y
+
+# specify the type
+zero : !!int 0
+positive: !!int 10
+negative: !!int -19
+binaryNum: !!int 0b11001
+octal: !!int 06574
+hexa: !!int 0x10
+commaValues: !!int +500_000 # 500,000
+
+# floating no 
+marks: !!float 65.9
+infinite: !!int .inf
+not a num: .nan
+
+# message : !! str for string 
+#  message : !! bool no 
+
+#null
+surname: !!null Null # or null NULL ~
+~: this is a null key
+
+# date and time 
+
+date : 2002-10-13
+date: !!timestamp 2002-12-13
 

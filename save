@@ -1,0 +1,41 @@
+[33mcommit 99baec037c5310d39ab37130e3a94213966c1184[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Rahul Dubey <111676105+Rahuldubey26@users.noreply.github.com>
+Date:   Tue Sep 24 07:13:46 2024 +0000
+
+    save changes
+
+[33mcommit 5c36c50d6b51d03e8d3239f8246e259652d66143[m
+Author: Rahul Dubey <111676105+Rahuldubey26@users.noreply.github.com>
+Date:   Tue Sep 24 06:10:26 2024 +0000
+
+    Saving changes if any
+
+[33mcommit 99def75d77b4d5ad384f4057e52004bed235ba5c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rahul Dubey <111676105+Rahuldubey26@users.noreply.github.com>
+Date:   Mon Sep 23 18:26:43 2024 +0000
+
+    JSON
+
+[33mcommit 4ced72782d255317c4e5625c4f35b9b09a669453[m
+Author: Rahul Dubey <111676105+Rahuldubey26@users.noreply.github.com>
+Date:   Mon Sep 23 18:24:57 2024 +0000
+
+    JSON
+
+[33mcommit ea0dff65354ae013d492d8e035e6eb30f9cf1068[m
+Author: Rahul Dubey <111676105+Rahuldubey26@users.noreply.github.com>
+Date:   Mon Sep 23 18:22:18 2024 +0000
+
+    --- to seperate the values
+
+[33mcommit 3e74a55435f8e08f44226b8396dd7d49f5f14931[m
+Author: Rahul Dubey <111676105+Rahuldubey26@users.noreply.github.com>
+Date:   Mon Sep 23 18:19:46 2024 +0000
+
+    It has space in start so work like python a bit
+
+[33mcommit 66683d18cc70d7d96e186bd200fd0682629b182c[m
+Author: Rahul Dubey <111676105+Rahuldubey26@users.noreply.github.com>
+Date:   Mon Sep 23 18:18:30 2024 +0000
+
+    CASE Sensitive
