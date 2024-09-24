@@ -1,0 +1,8 @@
+- School
+  - name: DPS
+    Principal: Someone
+    Students:
+      - name: Rahul
+      - age: 20
+      - marks: 90
+

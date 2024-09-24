@@ -2,7 +2,15 @@
     "School": [
         {
             "name": "DPS",
-            "Princpal": "Someone"
+            "Princpal": "Someone",
+            "Students": [
+                    {
+                        "rnoll":12,
+                        "name":"Rahul",
+                        "age":20
+                    }
+                ]
         }
+        
     ]
 }
