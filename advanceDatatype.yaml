@@ -3,7 +3,7 @@ student: !!seq
  - name 
  - rool_no
 
- cities: [ new Delhi,mumbai]
+cities: [ new Delhi,mumbai]
 
 # some of the key of the seq will be empty
 # sparse seq
